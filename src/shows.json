@@ -1,0 +1,222 @@
+[
+	{
+		"title": "Better Call Saul",
+		"cover": "/images/BetterCallSaul.jpg",
+		"year": "2015",
+		"starring": [
+			{
+				"name": "Bob Odenkirk"
+			},
+			{
+				"name": "Rhea Seehorn"
+			},
+			{
+				"name": "Jonathan Banks"
+			},
+			{
+				"name": "Patrick Fabian"
+			},
+			{
+				"name": "Michael Mando"
+			}
+		]
+	},
+	{
+		"title": "Bob's Burgers",
+		"cover": "/images/BobsBurgers.jpg",
+		"year": "2011",
+		"starring": [
+			{
+				"name": "H. Jon Benjamin"
+			},
+			{
+				"name": "Dan Mintz"
+			},
+			{
+				"name": "Eugene Mirman"
+			},
+			{
+				"name": "John Roberts"
+			},
+			{
+				"name": "Kristen Schaal"
+			}
+		]
+	},
+	{
+		"title": "Bojack Horseman",
+		"cover": "/images/BojackHorseman.jpg",
+		"year": "2014",
+		"starring": [
+			{
+				"name": "Will Arnett"
+			},
+			{
+				"name": "Amy Sedaris"
+			},
+			{
+				"name": "Alison Brie"
+			},
+			{
+				"name": "Aaron Paul"
+			},
+			{
+				"name": "Paul F. Tompkins"
+			}
+		]
+	},
+	{
+		"title": "Breaking Bad",
+		"cover": "/images/BreakingBad.jpg",
+		"year": "2008",
+		"starring": [
+			{
+				"name": "Bryan Cranston"
+			},
+			{
+				"name": "Aaron Paul"
+			},
+			{
+				"name": "Anna Gunn"
+			},
+			{
+				"name": "Dean Norris"
+			},
+			{
+				"name": "Betsy Brandt"
+			}
+		]
+	},
+	{
+		"title": "Castlevania",
+		"cover": "/images/Castlevania.jpg",
+		"year": "2017",
+		"starring": [
+			{
+				"name": "Richard Armitage"
+			},
+			{
+				"name": "James Callis"
+			},
+			{
+				"name": "Graham McTavish"
+			},
+			{
+				"name": "Alejandra Reynoso"
+			},
+			{
+				"name": "Matt Frewer"
+			}
+		]
+	},
+	{
+		"title": "Rick and Morty",
+		"cover": "/images/RickAndMorty.jpg",
+		"year": "2013",
+		"starring": [
+			{
+				"name": "Justin Roiland"
+			},
+			{
+				"name": "Chris Parnell"
+			},
+			{
+				"name": "Spencer Grammer"
+			},
+			{
+				"name": "Sarah Chalke"
+			},
+			{
+				"name": "Kari Wahlgren"
+			}
+		]
+	},
+	{
+		"title": "South Park",
+		"cover": "/images/SouthPark.jpg",
+		"year": "1997",
+		"starring": [
+			{
+				"name": "Trey Parker"
+			},
+			{
+				"name": "Matt Stone"
+			},
+			{
+				"name": "Mona Marshall"
+			},
+			{
+				"name": "April Stewart"
+			},
+			{
+				"name": "Isaac Hayes"
+			}
+		]
+	},
+	{
+		"title": "Stranger Things",
+		"cover": "/images/StrangerThings.jpg",
+		"year": "2016",
+		"starring": [
+			{
+				"name": "Millie Bobby Brown"
+			},
+			{
+				"name": "Finn Wolfhard"
+			},
+			{
+				"name": "Winona Ryder"
+			},
+			{
+				"name": "David Harbour"
+			},
+			{
+				"name": "Gaten Matarazzo"
+			}
+		]
+	},
+	{
+		"title": "The Sopranos",
+		"cover": "/images/TheSopranos.jpg",
+		"year": "1999",
+		"starring": [
+			{
+				"name": "James Gandolfini"
+			},
+			{
+				"name": "Lorraine Bracco"
+			},
+			{
+				"name": "Edie Falco"
+			},
+			{
+				"name": "Michael Imperioli"
+			},
+			{
+				"name": "Dominic Chianese"
+			}
+		]
+	},
+	{
+		"title": "The Wire",
+		"cover": "/images/TheWire.jpg",
+		"year": "2002",
+		"starring": [
+			{
+				"name": "Dominic West"
+			},
+			{
+				"name": "Lance Reddick"
+			},
+			{
+				"name": "Sonja Sohn"
+			},
+			{
+				"name": "John Doman"
+			},
+			{
+				"name": "Deidre Lovejoy"
+			}
+		]
+	}
+]
